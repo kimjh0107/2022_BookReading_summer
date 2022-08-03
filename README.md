@@ -3,6 +3,7 @@
 - Date: 2022-07-06 ~ 
 - Book: Dive into Deep Learning 
 
+<<<<<<< HEAD
 # Content 
     Week 1-1: 4장 Multilayer Perceptrons 
     Week 1-2: 6장 Convolutional Neural Network 
@@ -24,3 +25,5 @@ https://www.youtube.com/watch?v=UFBCpNKicYE : VGG, GoogleNet, Resnet
 4. EfficientNet
     https://www.youtube.com/watch?v=fR_0o25kigM&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=20
 5. DenseNet !!
+=======
+>>>>>>> 053196fa4242dad1a8f6fa8495ae6b2cdb4ffd3e
